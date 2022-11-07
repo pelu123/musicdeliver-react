@@ -8,7 +8,7 @@ const App = () => {
     return (
         <>
         <Content/>
-        <ItemCount initial={1} stock={5} onAdd={onAdd}/>
+        <ItemCount initial={1} stock={10} onAdd={onAdd}/>
         </>
     );
 }
