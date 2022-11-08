@@ -1,0 +1,156 @@
+[
+{
+    "id": 1,
+    "nombre": "Guitarra",
+    "marca": "Fender",
+    "modelo": "Stratocaster",
+    "precio": 80500,
+    "stock": 15,
+    "img": "strato-guitarras.jpg"
+},
+{
+    "id": 2, 
+    "nombre": "Guitarra",
+    "marca":  "Fender",
+    "modelo":  "Telecaster",
+    "precio":  76000,
+    "stock":  12,
+    "img": "telecaster-guitarras.jpg"
+},
+{
+    "id": 3,
+    "nombre": "Guitarra",
+    "marca": "Guibson",
+    "modelo": "Les Paul",
+    "precio": 90000,
+    "stock": 8,
+    "img": "lespaul-guitarras.jpg"
+},
+{
+    "id": 4,
+    "nombre": "Bajo",
+    "marca":  "Fender",
+    "modelo": "Jazz Bass",
+    "precio": 150000,
+    "stock": 9,
+    "img": "jazzbass-bajo.jpg"
+},
+{
+    "id": 5,
+    "nombre": "Bajo",
+    "marca": "Clasico",
+    "modelo": "Coleccion",
+    "precio": 200000,
+    "stock": 1,
+    "img":  "bajo-clasico.jpg"
+},
+{
+    "id": 6,
+    "nombre": "Bateria",
+    "marca": "Yamaha",
+    "modelo": "Stage custom",
+    "precio": 95000,
+    "stock": 6,
+    "img": "stagecustom-bateria.jpg"
+},
+{
+    "id": 7,
+    "nombre": "Mixer",
+    "marca":  "Pioneer",
+    "modelo": "DDJ 1000",
+    "precio": 500000,
+    "stock": 4,
+    "img": "pioneer-mixer.jpg"
+},
+{
+    "id": 8,
+    "nombre": "Amplificador",
+    "marca": "Fender",
+    "modelo": "Blues deluxe",
+    "precio": 90000,
+    "stock": 10,
+    "img": "fender-bluesdeluxe.jpg"
+},
+{
+    "id": 9,
+    "nombre": "Amplificador",
+    "marca": "Fender",
+    "modelo": "Rumble",
+    "precio": 97000,
+    "stock": 5,
+    "img": "fender-rumble-ampli.jpg"
+},
+{
+    "id": 10,
+    "nombre": "Amplificador",
+    "marca": "Bugera",
+    "modelo": "v22 infinium",
+    "precio": 80000,
+    "stock": 7,
+    "img": "bugera-v22-ininium22.jpg"
+},
+{
+    "id": 11,
+    "nombre": "Pedal",
+    "marca": "Boss",
+    "modelo": "Ps-5",
+    "precio": 25000,
+    "stock": 4,
+    "img": "boss-ps-5-pedal.jpg"
+},
+{
+    "id": 12,
+    "nombre": "Pedal",
+    "marca": "Ibanez",
+    "modelo": "Tubescreamer",
+    "precio": 30000,
+    "stock": 4,
+    "img": "ibanez-tubescreamer-pedal.jpg"
+},
+{
+    "id": 13,
+    "nombre": "Correa",
+    "marca": "Fender",
+    "modelo": "Cuero",
+    "precio": 7000,
+    "stock": 15,
+    "img": "correa-fendercuero.jpg"
+},
+{
+    "id": 14,
+    "nombre": "Correa",
+    "marca": "Rombo",
+    "modelo": "Tom's Vintage",
+    "precio": 7000,
+    "stock": 9,
+    "img": "tomsvintage-correa.jpg"
+},
+{
+    "id": 15,
+    "nombre": "Pua",
+    "marca": "Rombo",
+    "modelo": "Combo horizon",
+    "precio": 1500,
+    "stock": 10,
+    "img": "pua-rombohorizon.jpg"
+},
+{
+    "id": 16,
+    "nombre": "Pua",
+    "marca": "Rombo",
+    "modelo": "Combo crisp",
+    "precio": 1500,
+    "stock": 20,
+    "img": "pua-rombocrisp.jpg"
+},
+{
+    "id": 17,
+    "nombre": "Pua",
+    "marca": "Pioneer",
+    "modelo": "Combo jazz",
+    "precio": 1500,
+    "stock": 6,
+    "img": "pua-rombojazz.jpg"
+}
+
+]
