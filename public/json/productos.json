@@ -6,7 +6,7 @@
     "modelo": "Stratocaster",
     "precio": 80500,
     "stock": 15,
-    "img": "strato-guitarras.jpg"
+    "img": "../images/strato-guitarras.jpg"
 },
 {
     "id": 2, 
@@ -15,7 +15,7 @@
     "modelo":  "Telecaster",
     "precio":  76000,
     "stock":  12,
-    "img": "telecaster-guitarras.jpg"
+    "img": "../images/telecaster-guitarras.jpg"
 },
 {
     "id": 3,
@@ -24,7 +24,7 @@
     "modelo": "Les Paul",
     "precio": 90000,
     "stock": 8,
-    "img": "lespaul-guitarras.jpg"
+    "img": "../images/lespaul-guitarras.jpg"
 },
 {
     "id": 4,
@@ -33,7 +33,7 @@
     "modelo": "Jazz Bass",
     "precio": 150000,
     "stock": 9,
-    "img": "jazzbass-bajo.jpg"
+    "img": "../images/jazzbass-bajo.jpg"
 },
 {
     "id": 5,
@@ -42,7 +42,7 @@
     "modelo": "Coleccion",
     "precio": 200000,
     "stock": 1,
-    "img":  "bajo-clasico.jpg"
+    "img":  "../images/bajo-clasico.jpg"
 },
 {
     "id": 6,
@@ -51,7 +51,7 @@
     "modelo": "Stage custom",
     "precio": 95000,
     "stock": 6,
-    "img": "stagecustom-bateria.jpg"
+    "img": "../images/stagecustom-bateria.jpg"
 },
 {
     "id": 7,
@@ -60,7 +60,7 @@
     "modelo": "DDJ 1000",
     "precio": 500000,
     "stock": 4,
-    "img": "pioneer-mixer.jpg"
+    "img": "../images/pioneer-mixer.jpg"
 },
 {
     "id": 8,
@@ -69,7 +69,7 @@
     "modelo": "Blues deluxe",
     "precio": 90000,
     "stock": 10,
-    "img": "fender-bluesdeluxe.jpg"
+    "img": "../images/fender-bluesdeluxe.jpg"
 },
 {
     "id": 9,
@@ -78,7 +78,7 @@
     "modelo": "Rumble",
     "precio": 97000,
     "stock": 5,
-    "img": "fender-rumble-ampli.jpg"
+    "img": "../images/fender-rumble-ampli.jpg"
 },
 {
     "id": 10,
@@ -87,7 +87,7 @@
     "modelo": "v22 infinium",
     "precio": 80000,
     "stock": 7,
-    "img": "bugera-v22-ininium22.jpg"
+    "img": "../images/bugera-v22-infinium22.jpg"
 },
 {
     "id": 11,
@@ -96,7 +96,7 @@
     "modelo": "Ps-5",
     "precio": 25000,
     "stock": 4,
-    "img": "boss-ps-5-pedal.jpg"
+    "img": "../images/boss-ps-5-pedal.jpg"
 },
 {
     "id": 12,
@@ -105,7 +105,7 @@
     "modelo": "Tubescreamer",
     "precio": 30000,
     "stock": 4,
-    "img": "ibanez-tubescreamer-pedal.jpg"
+    "img": "../images/ibanez-tubescreamer-pedal.jpg"
 },
 {
     "id": 13,
@@ -114,7 +114,7 @@
     "modelo": "Cuero",
     "precio": 7000,
     "stock": 15,
-    "img": "correa-fendercuero.jpg"
+    "img": "../images/correa-fendercuero.jpg"
 },
 {
     "id": 14,
@@ -123,7 +123,7 @@
     "modelo": "Tom's Vintage",
     "precio": 7000,
     "stock": 9,
-    "img": "tomsvintage-correa.jpg"
+    "img": "../images/tomsvintage-correa.jpg"
 },
 {
     "id": 15,
@@ -132,7 +132,7 @@
     "modelo": "Combo horizon",
     "precio": 1500,
     "stock": 10,
-    "img": "pua-rombohorizon.jpg"
+    "img": "../images/pua-rombohorizon.jpg"
 },
 {
     "id": 16,
@@ -141,7 +141,7 @@
     "modelo": "Combo crisp",
     "precio": 1500,
     "stock": 20,
-    "img": "pua-rombocrisp.jpg"
+    "img": "../images/pua-rombocrisp.jpg"
 },
 {
     "id": 17,
@@ -150,7 +150,7 @@
     "modelo": "Combo jazz",
     "precio": 1500,
     "stock": 6,
-    "img": "pua-rombojazz.jpg"
+    "img": "../images/pua-rombojazz.jpg"
 }
 
 ]

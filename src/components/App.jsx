@@ -1,16 +1,24 @@
 import './App.css';
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import Content from './Content/Content';
-import ItemCount from './ItemCount/ItemCount';
-import Instrumentos from './Instrumentos/Instrumentos';
+import ItemListContainer from './ItemListContainer/ItemListContainer';
+import Carrito from './Carrito/Carrito';
+import Producto from './Producto/Producto';
 const App = () => {
     const onAdd = (cantidad) => {
         console.log(`Compraste ${cantidad} unidades`);
     }
     return (
         <>
-        <Content/>
-        <Instrumentos/>
-        <ItemCount initial={1} stock={10} onAdd={onAdd}/>
+        <BrowserRouter>
+            <Content/>
+                <Routes>
+                    <Route path='/' element={<ItemListContainer/>}/>
+                    <Route path='/producto' element={<Producto/>}/>
+                    <Route path='/carrito' element={<Carrito/>}/>
+                    
+                </Routes>
+        </BrowserRouter>
         </>
     );
 }

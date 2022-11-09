@@ -30,3 +30,4 @@ const ItemCount = () => {
 
 export default ItemCount;
 
+/**<Route path='/ItemCount' element={<ItemCount initial={1} stock={10} onAdd={onAdd}/>}/> */

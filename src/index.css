@@ -16,4 +16,11 @@ body {
     margin: auto;
     overflow: hidden;
 }
+.row{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+};
 
