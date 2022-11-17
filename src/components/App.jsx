@@ -14,7 +14,7 @@ const App = () => {
             <Content/>
                 <Routes>
                     <Route path='/' element={<ItemListContainer/>}/>
-                    <Route path='/producto' element={<Producto/>}/>
+                    <Route path='/producto/:id' element={<Producto/>}/>
                     <Route path='/carrito' element={<Carrito/>}/>
                     
                 </Routes>

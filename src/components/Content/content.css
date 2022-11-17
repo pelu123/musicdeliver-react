@@ -29,6 +29,8 @@
 
 nav {
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 nav>button {
@@ -36,6 +38,8 @@ nav>button {
     font-weight: 300;
     margin-right: 10px;
     text-decoration: none;
+    align-items: center;
+    justify-content: center;
 }
 
 nav>a:hover {
