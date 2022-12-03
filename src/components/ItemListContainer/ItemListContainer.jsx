@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 
-const Instrumentos = () => {
+const ItemListContainer = () => {
 
     const consultarBDD = async () => {
         fetch('/json/productos.json')
@@ -44,4 +44,5 @@ return (
 );
 }
 
-export default Instrumentos;
+export default ItemListContainer ;
+

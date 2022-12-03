@@ -8,14 +8,8 @@ body {
     font-family: 'Koulen', cursive;
 }
 
-/*estilo general del sitio marcado la clase "contenedor"*/
-.contenedor {
-    padding: 20px;
-    width: 90%;
-    max-width: 100%;
-    margin: auto;
-    overflow: hidden;
-}
+
+
 .row{
     align-items: center;
     justify-content: center;
